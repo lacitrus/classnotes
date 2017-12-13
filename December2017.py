@@ -11,4 +11,10 @@
 # in css, styles close to element is the highest order to control the element, inline style over CSS unless the CSS style has an !important tag.
 # Javascript:
 # put ; at the end of each line, which is required by some frameworks, but JS does not require it 
-# 
+
+# 12-12.2017
+#"/" becomes __name__
+
+#in Hello-Flask 
+#app = Flask(__name__)
+#app.config['DEBUG'] = True
